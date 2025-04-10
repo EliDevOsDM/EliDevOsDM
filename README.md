@@ -24,6 +24,8 @@ Soy un **desarrollador freelancer** especializado en **desarrollo web**, **móvi
 - 💻 **JavaScript** | 🌐 **HTML/CSS**
 - 🗄 **SQL** | **MongoDB**
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### Otras herramientas
 - 💻 **VS Code**
 - 📂 **GitHub** | 🌍 **Git**
