@@ -47,10 +47,10 @@ Una IA que analiza cuerpos y crea rutinas de ejercicios personalizadas según la
 Aplicación para mejorar la seguridad ciudadana, donde los policías reciben alertas en tiempo real.
 
 ## 📬 Contacto
-- 🌐 [Mi portafolio](https://eliasdlucca.dev)
-- 📧 [Correo electrónico](mailto:eliasdlucca@example.com)
+- 🌐 [Mi portafolio](https://elidevosdm.github.io/CCv/)
+- 📧 [Correo electrónico](mailto:elidevosdm@gmail.com)
 - 🐦 [Twitter](https://twitter.com/EliDevOsDM)
-- 📘 [LinkedIn](https://linkedin.com/in/eliasdlucca)
+- 📘 [LinkedIn](https://www.linkedin.com/in/elias-dlucca-634821332/)
 
 ## 🏆 Badges
 
